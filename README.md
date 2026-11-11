@@ -1,35 +1,94 @@
-# Hi, I'm Haitam Zitouni 👋
+# Hi, I'm Haitam 👋
 
-Computer Science graduate based in Morocco, moving from restaurant operations leadership into technical support and full-stack development. I like solving problems methodically, building things that work, and explaining technical issues in plain language. Fluent in Arabic, English, French, and German.
+**Software Engineer | Python & Backend Development | Automation | Technical Co-founder @ ModuNexia**
 
-## 🔧 What I work with
+I'm a Computer Science graduate from Salem State University in Massachusetts, currently based in Morocco.
 
-- **Support & Troubleshooting:** issue triage, root-cause analysis, documentation, user training
-- **Web & APIs:** JavaScript, TypeScript, Node.js, Express, React, REST APIs, Postman
-- **Data & Tools:** PostgreSQL, MySQL, MongoDB, Prisma, SQL, Git, Java, Python
+I build backend systems, full-stack applications, and workflow automation tools, with a focus on reliability, practical problem-solving, and maintainable software.
 
-## 🚀 Featured projects
+I'm also the technical co-founder of **ModuNexia**, an emerging digital solutions company focused on helping businesses improve their operations through software and automation.
+
+## 🛠️ Tech Stack
+
+**Backend & APIs**
+Python · FastAPI · Node.js · Express · REST APIs · Java
+
+**Frontend**
+React · TypeScript · JavaScript · HTML · CSS
+
+**Databases**
+PostgreSQL · MySQL · MongoDB · SQLite · Prisma · SQLAlchemy
+
+**Engineering & Tools**
+Git · GitHub Actions · Docker · Linux · API Integration · Automated Testing · CI/CD
+
+**Areas of Interest**
+Workflow Automation · Distributed Systems · Application Security · AI Integration · Backend Reliability
+
+## 🚀 Featured Projects
+
+### Invoice Extractor
+A document-processing application designed to extract, validate, and structure invoice data.
+
+- Deterministic extraction and validation.
+- Automated testing and documented limitations.
+- Versioned releases and a deployed demonstration.
+- Focus on data correctness and reliable processing.
 
 ### [Job Application Tracker](https://github.com/hzitouniATSSU/job-application-tracker)
-Full-stack app for tracking job applications, hiring stages, documents, and follow-up reminders. React + TypeScript frontend, Node/Express REST API, PostgreSQL + Prisma, with search, filtering, sorting, and automated tests. Deployed: frontend on Vercel, backend/database on Railway.
+A full-stack application for managing job applications, documents, hiring stages, and follow-ups.
 
-### [AI Resume & Cover Letter Generator](https://github.com/hzitouniATSSU/ai-resume-generator)
-Full-stack app that generates tailored resumes and cover letters using the OpenAI API. React + TailwindCSS frontend, FastAPI backend.
+- React frontend with a Node.js/Express backend.
+- PostgreSQL and Prisma for data persistence.
+- Authentication, API development, and automated testing.
+- Deployed application with CI-based verification.
 
-### [Restaurant OS]([LINK_HERE](https://github.com/hzitouniATSSU/restaurant-os)) — *in progress*
-Spring Boot–based restaurant operations system, currently in development.
+### API Health Monitor
+A backend monitoring project focused on API reliability and security.
 
-## 🗂 Other projects
+- API health checks and operational monitoring.
+- Protection against server-side request forgery (SSRF).
+- Database migrations and PostgreSQL integration tests.
+- Docker-based deployment and automated CI checks.
 
-- **MERN Social Media App** — full-stack social app with authentication and CRUD features (MongoDB, Express, React, Node.js)
-- **Next-Word Predictor (LSTM)** — Python/Jupyter language model project predicting the next word in a sequence
+## 🏢 ModuNexia — Technical Co-founder
 
-## 🌐 Background
+I co-founded ModuNexia to develop practical digital solutions for businesses.
 
-Three years of customer-facing leadership in high-volume U.S. hospitality (Boston, MA) — leading teams of up to 10, training staff, and resolving service issues under pressure. Now applying that same problem-solving and communication skill set to technical support and software engineering.
+My responsibilities include technical architecture, application development, workflow automation, integrations, and technical quality assurance.
 
-## 📫 Get in touch
+Our internal demonstration projects explore:
+- Accounting document automation.
+- Hospitality operations and reporting.
+- Tour operator workflows and quotations.
 
-- LinkedIn: [linkedin.com/in/h-zitouni](https://linkedin.com/in/h-zitouni)
-- Email: hzitounics@gmail.com
-- Open to full-time remote roles, available across U.S./Europe business hours
+These are internal prototypes built with synthetic data, not commissioned client projects.
+
+## 🧠 How I Build
+
+I care about understanding how systems work, not simply getting them to run.
+
+My development approach emphasizes:
+
+- Clear requirements and practical architecture.
+- Testing, debugging, and understanding failure cases.
+- Security and maintainability.
+- Documented trade-offs and honest limitations.
+- Responsible use of AI as an engineering and learning tool.
+
+I developed and deployed my earlier applications hands-on with AI guidance. I also use coding agents for structured audits, testing, and selected improvements, while retaining responsibility for technical decisions and reviewing the results.
+
+## 🌍 Background
+
+Before focusing on software engineering, I worked in hospitality operations in the United States, where I led teams, trained employees, and handled operational challenges in demanding environments.
+
+That experience strengthened my communication, problem-solving, and business understanding—skills I now apply to software development and technical consulting.
+
+**Languages:** Arabic · English · French · German
+
+## 📫 Connect
+
+- **LinkedIn:** [linkedin.com/in/h-zitouni](https://linkedin.com/in/h-zitouni)
+- **Email:** [hzitounics@gmail.com](mailto:hzitounics@gmail.com)
+
+Interested in backend engineering, automation, technical collaborations, and opportunities to solve meaningful software problems.
